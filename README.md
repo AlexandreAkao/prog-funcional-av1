@@ -51,4 +51,4 @@ Enum.map([1,2,3,4,5,6], fn(x) -> x*2 end)
 Ou seja, você construirá um módulo, por exemplo Unifor, que dentro dele conterá as funções mapear e filtrar. Não é permitido usar o módulo Enum do Elixir, que já contém tais funções nativas. Sua implementação deve ser pura, usando recursividade ou compreensão de listas. Portanto, não se deve usar recursos do Elixir que já fazem tal funcionalidade.
 
 - Implementar a função mapear.
-- Implementar a função filtrar.
+- Implementar a função filtrar. 
